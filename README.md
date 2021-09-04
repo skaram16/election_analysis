@@ -1,4 +1,4 @@
-# election_analysis
+# ELECTION ANALYSIS - PYPOLL WITH PYTHON
 
 ## Project Overview
 A Colorado Board of Elections employee has assigned you the following tasks to complete the election audit of a recent local congressional election.
@@ -17,15 +17,17 @@ A Colorado Board of Elections employee has assigned you the following tasks to c
 The analysis of the election shows that:
 - There were "x" votes cast in the election.
 - The candidates were
-  -
-  -
-  -
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymom Anthony Doane
+  
 - The candidate results were:
-  -
-  -
-  -
+  - Stockham received 23% of votes
+  - DeGette received 74% of votes
+  - Doane received 3% of votes
+  
 -The winner of the election was:
-  - ___ who received " %" of the vote and " " number of votes
+  - Diana DeGette who received 74% of the vote and 272,892 votes
 
 
 
