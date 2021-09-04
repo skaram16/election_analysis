@@ -32,7 +32,7 @@ The analysis of the election shows that:
 
 
 # CHALLENGE OVERVIEW:
-![alt text](https://www.google.com/search?q=election&sxsrf=AOaemvJKutUrAUEEkrasriqzvbVAacMCVw:1630730034590&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj9pb7jvuTyAhWTQjABHQD5DrcQ_AUoAnoECAEQBA&biw=1440&bih=679&dpr=2#imgrc=EsmjI64RUS9P1M)
+![Alt text](/Users/sabrinakaram/Desktop/Homework/PyPoll/election_analysis/Resources/Election_Image.jpeg)
 
 Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
 
